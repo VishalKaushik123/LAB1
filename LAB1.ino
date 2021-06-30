@@ -19,12 +19,12 @@ void loop() {
   
   //turns the light on
   digitalWrite(D5, HIGH);
-  //waits 1/2 second
-  delay(500);
+  //waits 1 second
+  delay(1000);
   //turns the light off
   digitalWrite(D5, LOW);
-  // waits 1/2 second
-  delay(500);
+  // waits 1 second
+  delay(1000);
 
 
 }
